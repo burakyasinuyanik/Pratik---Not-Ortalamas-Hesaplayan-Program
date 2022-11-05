@@ -5,7 +5,7 @@
 
 import java.util.Scanner;
 
-public class prariknotortalama {
+public class pratiknotortalama {
     public test() {
     }
 
